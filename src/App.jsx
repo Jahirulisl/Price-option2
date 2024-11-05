@@ -6,8 +6,9 @@ import PriceOptions from './Components/PriceOptions/PriceOptions'
 import LineChart from './Components/LineChart/LineChart'
 import Phones from './Components/Phones/Phones'
 
+
 function App() {
-  const [count, setCount] = useState(0)
+  // const [count, setCount] = useState(0)
 
   return (
     <>
